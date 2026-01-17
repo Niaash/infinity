@@ -1,0 +1,19 @@
+
+{
+  "short_name": "Blackora",
+  "name": "Blackora Infinity",
+  "description": "High-performance block puzzle game with infinite levels.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5637/5637217.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "orientation": "portrait"
+}
